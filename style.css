@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Wendy+One&display=swap');
+
+body {
+    text-align: center;
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/612M34rhfPL._SL1468_.jpg");
+      color: #000000;
+    font-family: cursive;
+  }
+  
+  h1 {
+    font-size: 5em;
+    text-shadow: 5px 0 pink;
+  
+  }
+  
+  .drum-container{
+      height: 400px;
+  }
+  
+  h2{
+      color:white;
+      font-size:30px;
+  }
+  
+  .drum {
+    border: 10px solid orangered;
+    font-family: 'Wendy One', sans-serif;
+    border-radius: 50%;
+    display: inline-block;
+    width: 160px;
+    height: 160px;
+    margin: 10px;
+    background-color:yellow;
+  }
+  
